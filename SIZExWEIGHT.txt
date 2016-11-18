@@ -1,2 +1,0 @@
-SIZExWEIGHT
-datalogging program for size and weight. saves to a .txt file.
